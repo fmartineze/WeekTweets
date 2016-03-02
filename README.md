@@ -34,7 +34,6 @@ Ejemplo / Example : twitter_cfg.json
   "ConsumerKey" : "jNtmt--myconsumerkey--SGafoU30u4z5",
   "ConsumerSecret" : "edBmc--myconsumersecret--aX3hYk66IvaaJ0yyM3ii"
 }
-
 ```
 
 (ES) Seguidamente es necesario configurar las tareas programadas en schedule.json<br>
