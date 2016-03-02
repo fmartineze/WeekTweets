@@ -1,8 +1,8 @@
 WeekTWeets
 ==========
 
-(ES) Permite programar el envió de Tweets repetitivos semanalmente.
-(EN) Program allows sending Tweets repetitive weekly.
+(ES) Permite programar el envió de Tweets repetitivos semanalmente.<br>
+(EN) Program allows sending Tweets repetitive weekly.<br>
 
 Versión / Versions
 -------------------
