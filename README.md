@@ -40,18 +40,18 @@ Ejemplo / Example : twitter_cfg.json
 (EN) Then you need to configure scheduled tasks in schedule.json<br>
 
 (ES)Campos:<br>
-   __dayweek -> Puede especificar las iniciales de los días de la semana que se va a ejecutar "LMXJVSD".<br>
-   __time    -> Hora de ejecución ("HH:MM:SS")<br>
-   __msg     -> Tweet a enviar (máximo 140 caracteres).<br>
-   __last    -> Especifica la última vez que se ha ejecutado, por lo que no se ejecutará más en esa fecha. (DD/MM/AA)<br>
-   __count   -> Número de veces que se va a ejecutar. Para que se ejecute de forma indefinida hay que indicar "-1"<br>
+   __ dayweek -> Puede especificar las iniciales de los días de la semana que se va a ejecutar "LMXJVSD".<br>
+   __ time    -> Hora de ejecución ("HH:MM:SS")<br>
+   __ msg     -> Tweet a enviar (máximo 140 caracteres).<br>
+   __ last    -> Especifica la última vez que se ha ejecutado, por lo que no se ejecutará más en esa fecha. (DD/MM/AA)<br>
+   __ count   -> Número de veces que se va a ejecutar. Para que se ejecute de forma indefinida hay que indicar "-1"<br>
    <br>
 (EN)Fields:<br>
-   __dayweek -> Use the initials of Spanish day week to schedule the tweets "LMXJVSD".<br>
-   __time    -> Start time ("HH:MM:SS")<br>
-   __msg     -> Text to send (max 140 chars).<br>
-   __last    -> Specifies the last executed date, so it will not run over on that date. (DD/MM/YY)<br>
-   __count   -> Repeat Counter. "-1" For infinite<br>
+   __ dayweek -> Use the initials of Spanish day week to schedule the tweets "LMXJVSD".<br>
+   __ time    -> Start time ("HH:MM:SS")<br>
+   __ msg     -> Text to send (max 140 chars).<br>
+   __ last    -> Specifies the last executed date, so it will not run over on that date. (DD/MM/YY)<br>
+   __ count   -> Repeat Counter. "-1" For infinite<br>
 <br>
 Ejemplo / Example : twitter_cfg.json
 
