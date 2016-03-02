@@ -7,15 +7,17 @@ WeekTWeets
 Versión / Versions
 -------------------
 
-** (ES) Versión Actual es 1.0.0 **
-** (EN) Current version is 1.0.0 **
+** (ES) Versión Actual es 1.0.0 **<br>
+
+** (EN) Current version is 1.0.0 **<br>
 
 
 Contributing / Contribución
 ---------------------------
 
-(ES) Aceptamos cualquier contribución o bugs detectados.
-(EN) We welcome contributions, be it bug fixes or other improvements. If you fix or change something, please submit a pull request. If you want to report a bug, please open an issue. 
+(ES) Aceptamos cualquier contribución o bugs detectados.<br>
+
+(EN) We welcome contributions, be it bug fixes or other improvements. If you fix or change something, please submit a pull request. If you want to report a bug, please open an issue. <br>
 
 
 Uso / How To
